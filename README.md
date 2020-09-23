@@ -2,12 +2,12 @@
 Repo for links from the JNUC 2020 talk "jamJAR - Three years on"
 
 # What?
--[jamJAR](https://github.com/dataJAR/jamJAR)
+[jamJAR](https://github.com/dataJAR/jamJAR)
 
 # Why?
--[Jamf Patch Management](https://www.jamf.com/products/jamf-pro/patch-management/)
--[AutoPkg](https://github.com/autopkg/autopkg)
--[Munki](https://github.com/munki/munki)
+[Jamf Patch Management](https://www.jamf.com/products/jamf-pro/patch-management/)
+[AutoPkg](https://github.com/autopkg/autopkg)
+[Munki](https://github.com/munki/munki)
 
 # How?
 [jamJAR Wiki](https://github.com/dataJAR/jamJAR/wiki/)
