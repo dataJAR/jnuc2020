@@ -13,4 +13,9 @@ Repo for links from the JNUC 2020 talk "jamJAR - Three years on"
 - [jamJAR Wiki](https://github.com/dataJAR/jamJAR/wiki/)
 
 # What's new?
+- [Erase and Install](https://dazwallace.wordpress.com/2018/10/11/performing-an-erase-and-install-of-mojave-with-jamjar/)
 - [Munki Catalog Browser](https://github.com/dataJAR/Munki-Catalog-Browser)
+- [Notifier](https://github.com/dataJAR/Notifier)
+
+# jamJAR in action
+- [Munki Rebrand](https://github.com/ox-it/munki-rebrand)
